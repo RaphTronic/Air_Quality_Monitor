@@ -1,6 +1,6 @@
 # DIY Air Quality Monitor & Datalogger: PM1-10, VOC, NOx, CO2
 
-This repository contains the **Arduino code** and **CAD design files** to build the V1 version of the DIY Air Quality Monitor & Datalogger described in this series of posts:
+This repository contains the **Arduino code** and the **optional CAD design files** to build the V1 version of the DIY Air Quality Monitor & Datalogger described in this series of posts:
 * Part 1 - **Introduction**: https://raphtronic.blogspot.com/2024/08/diy-pm-voc-air-quality-monitor-with.html
 * Part 2 - **Implementation**:      _in the works (describes the files uploaded here)_
 * Part 3 - **Results**:  _a month away_
