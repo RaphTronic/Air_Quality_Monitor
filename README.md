@@ -2,7 +2,7 @@
 
 This repository contains the **Arduino code** and **CAD design files** to build the V1 version of the DIY Air Quality Monitor & Datalogger described in this series of posts:
 * Part 1 - **Introduction**: https://raphtronic.blogspot.com/2024/08/diy-pm-voc-air-quality-monitor-with.html
-* Part 2 - **Implementation**:      _in the works_
+* Part 2 - **Implementation**:      _in the works (describes the files uploaded here)_
 * Part 3 - **Results**:  _a month away_
 
 **Basic Arduino sketches** to test and get started with each sensor / interface (PM, CO2, RTC, uSD card, battery...) will also be uploaded. Along with **basic applications**, like saving a color-accurate screenshot to the uSD card, that I could not find anywhere else. The goal here is to help people learn these capabilities, explore or debug their setup for this project, leverage simple code for their own projects.
