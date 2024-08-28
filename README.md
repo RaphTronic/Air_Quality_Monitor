@@ -11,7 +11,7 @@ Expectations for code updates: V1 is 95% core-features complete at this time (Au
 
 Happy coding & clean air to all !
 ** **
-Warning: _I am by no means a pro SW developer. Which explains the bloated, unstructured, confusing, giant single-file piece of Arduino/C/C++ spaghetti code that runs this monitor. Good luck to anyone trying to mod anything... Submit a github issue if you have questions or feature requests._
+Warning: _I am by no means a pro SW developer. Which explains the bloated, confusing, giant single-file piece of Arduino/C/C++ spaghetti code that runs this monitor. Good luck to anyone trying to mod anything... Submit a github issue if you have questions or feature requests._
 ** **
 
 ![20240812_121825 Air Quality Index](https://github.com/user-attachments/assets/c70e8b9c-75d2-4e7d-b0cb-0024cb651dc5)
