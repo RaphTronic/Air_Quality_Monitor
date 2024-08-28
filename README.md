@@ -7,7 +7,7 @@ This repository contains the **Arduino code** and the **optional CAD design file
 
 Part 2 describes how to put together and run this project --> start there to make sense of the files in this repository.
 
-Expectations for code updates: V1 is 95% core-features complete at this time (Aug'24). The remaining TODOs are listed in the 1st lines of code. Weekly-ish updates will be committed over the next 3 to 6 months (mostly code cleanup & non-essential features). Focus should then shift to V2 (wireless sensors).
+Expectations for code updates: V0.8 is 80% core-features complete at this time (Aug'24). The remaining TODOs are listed in the top lines of code. Weekly-ish updates will be committed over the next 3 to 6 months (mostly code cleanup & non-essential features). Focus should then shift to V2 (wireless sensors).
 
 Happy coding & clean air to all !
 ** **
